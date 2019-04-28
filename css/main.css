@@ -1,0 +1,12 @@
+.title{
+    background: blue;
+    color: white;
+
+}
+#tagline{
+    background:greenyellow;
+    color:blue;
+}
+[disabled]{
+    color:brown
+}
