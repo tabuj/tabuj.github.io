@@ -1,12 +1,12 @@
-.title{
-    background: blue;
-    color: white;
-
+.h1{
+    background:blue;
+    color:wheat;
 }
-#tagline{
-    background:greenyellow;
-    color:blue;
+.h2{
+    background:red;
+    color:white;
 }
-[disabled]{
-    color:brown
+P{
+    background:black;
+    color:darkgrey;
 }
