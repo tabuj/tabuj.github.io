@@ -47,13 +47,13 @@ body{
     font-size: 30px;
     color:blue;
     font-family: algerian;
-    margin-bottom: 150px;
+    background-color: cornsilk;
+    display:inline
 }
 
 .navbar{
     text-align: center;
     padding: 20px;
-    margin-bottom: 100px;
 }
 
 .navbar a{
