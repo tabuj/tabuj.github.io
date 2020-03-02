@@ -2,12 +2,14 @@ body{
     padding: 0;
     margin: 0;
     background-color: slategrey;
-    background-image: url(../image/aboutbg.jfif)
+    background-image: url(../image/aboutbg.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 
 
-.head h1{
+.head h3{
     color: crimson;
     background-color: ghostwhite;
     padding-left: 10px;
@@ -15,8 +17,9 @@ body{
 }
 
 h2{
-    color: aliceblue;
+    color: purple;
     text-align: center;
     margin-top: 100px;
-    background-color: darkslategrey;
+    background-color: burlywood;
+    margin-top: 10px;
 }
