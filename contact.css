@@ -2,8 +2,6 @@ body{
     padding: 0;
     margin: 0;
     background-image: url(../image/contactbg.jfif);
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 .contact h1{ 
     color:white;
