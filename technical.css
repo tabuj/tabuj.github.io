@@ -1,0 +1,58 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color:lightslategray;
+}
+
+h1{
+    color: yellow;
+    text-align: center;
+}
+
+.PL h2{
+    color:darkred;
+    padding-left: 20px;
+}
+.PL h3{
+    color: crimson;
+    padding-left: 30px;
+}
+
+.COS h2{
+    color:darkred;
+    padding-left:20px;
+}
+
+.VCS h2{
+    color: darkred;
+    padding-left: 20px;
+}
+.VCS h3{
+    color: crimson;
+    padding-left: 30px;
+}
+.COS h3{
+    color:crimson;
+    padding-left: 30px;
+}
+
+.SP h2{
+    color: darkred;
+    padding-left: 20px;
+}
+.SP h3{
+    color: crimson;
+    padding-left: 30px;
+}
+
+.button{
+    margin:20px;
+    width: 80px;
+    height: 5vh;
+    color:white;
+    font-size: 15px;
+    font-family: initial;
+    background-color:black;
+    border-radius: 20px;
+    border: 1px solid black;
+}

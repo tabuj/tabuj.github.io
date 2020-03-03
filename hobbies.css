@@ -1,0 +1,31 @@
+body{
+    background-color:lightslategray;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    color: yellow;
+}
+
+.Hobby h2{
+    color: darkred;
+    padding-left: 20px;
+}
+
+.Hobby h3{
+    color: crimson;
+    padding-left: 30px;
+}
+.button{
+    margin:20px;
+    width: 80px;
+    height: 5vh;
+    color:white;
+    font-size: 15px;
+    font-family: initial;
+    background-color:black;
+    border-radius: 20px;
+    border: 1px solid black;
+}
