@@ -1,7 +1,10 @@
 body{
-    background-color:lightslategray;
     margin: 0;
     padding: 0;
+    background-image: url(../image/hobbiesbg1.jfif);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
 }
 
 h1{
@@ -10,12 +13,12 @@ h1{
 }
 
 .Hobby h2{
-    color: darkred;
+    color: black;
     padding-left: 20px;
 }
 
 .Hobby h3{
-    color: crimson;
+    color: yellow;
     padding-left: 30px;
 }
 .button{

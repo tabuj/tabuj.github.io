@@ -2,21 +2,24 @@ body{
     padding: 0;
     margin: 0;
     background-image: url(../image/aboutbg.jfif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 100vh;
 }
 
 
 
 .head h3{
-    color: crimson;
-    background-color: ghostwhite;
+    color: black;
+    background-color: whitesmoke;
     padding-left: 10px;
     padding-right: 10px;
 }
 
 h2{
-    color: purple;
+    color: black;
     text-align: center;
-    background-color: burlywood;
+    background-color: whitesmoke;
     margin-top: 100px;
 }
 .button{

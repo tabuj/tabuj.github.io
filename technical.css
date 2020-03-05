@@ -1,7 +1,10 @@
 body{
     padding: 0;
     margin: 0;
-    background-color:lightslategray;
+    background-image: url(../image/technicalbg.jfif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 100vh;
 }
 
 h1{
@@ -10,38 +13,38 @@ h1{
 }
 
 .PL h2{
-    color:darkred;
+    color:whitesmoke;
     padding-left: 20px;
 }
 .PL h3{
-    color: crimson;
+    color: yellow;
     padding-left: 30px;
 }
 
 .COS h2{
-    color:darkred;
+    color:whitesmoke;
     padding-left:20px;
 }
 
 .VCS h2{
-    color: darkred;
+    color: whitesmoke;
     padding-left: 20px;
 }
 .VCS h3{
-    color: crimson;
+    color:yellow;
     padding-left: 30px;
 }
 .COS h3{
-    color:crimson;
+    color:yellow;
     padding-left: 30px;
 }
 
 .SP h2{
-    color: darkred;
+    color: whitesmoke;
     padding-left: 20px;
 }
 .SP h3{
-    color: crimson;
+    color:yellow;
     padding-left: 30px;
 }
 
