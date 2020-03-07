@@ -4,9 +4,9 @@ body{
     box-sizing: border-box;
     background-image:url(../image/bg.jfif);
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: 100% 100% 100%;
     background-position: center;
-    height: 130vh;
+    height: 100vh;
 }
  
 .heading h1{
@@ -110,3 +110,39 @@ a.active{
     justify-content: center;
     align-items: center;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
