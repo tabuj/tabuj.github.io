@@ -12,7 +12,7 @@ body {
 .heading h1 {
   text-align: center;
   font-family: tahoma;
-  color: red;
+  color: navy;
 }
 
 .img-content {
@@ -36,14 +36,14 @@ body {
 .headline h2 {
   cursor: pointer;
   font-size: 20px;
-  color: blue;
+  color: navy;
   font-family: Tahoma;
 }
 
 .headline p {
   cursor: pointer;
   font-size: 30px;
-  color: blue;
+  color: navy;
   font-family: algerian;
   background-color: cornsilk;
   display: inline;
@@ -118,6 +118,14 @@ a.active {
     background-image: url(../image/bg.jfif);
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    height: 195vh;
+    height: 220vh;
+  }
+  .headline p {
+    cursor: pointer;
+    font-size: 30px;
+    color: navy;
+    font-family: algerian;
+    background-color: cornsilk;
+    display: inline;
   }
 }

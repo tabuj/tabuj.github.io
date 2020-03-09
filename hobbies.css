@@ -1,34 +1,31 @@
-body{
-    margin: 0;
-    padding: 0;
-    background-image: url(../image/hobbiesbg1.jfif);
-    height: 100vh;
-    background-repeat: no-repeat;
-    background-size: 100% 100%;
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(221, 185, 55);
 }
 
-h1{
-    text-align: center;
-    color: yellow;
+.head h1 {
+  text-align: center;
+  color: red;
 }
 
-.Hobby h2{
-    color: black;
-    padding-left: 20px;
+.Hobby h2 {
+  color: black;
+  padding-left: 20px;
 }
 
-.Hobby h3{
-    color: yellow;
-    padding-left: 30px;
+.Hobby h3 {
+  color: white;
+  padding-left: 30px;
 }
-.button{
-    margin:20px;
-    width: 80px;
-    height: 5vh;
-    color:white;
-    font-size: 15px;
-    font-family: initial;
-    background-color:black;
-    border-radius: 20px;
-    border: 1px solid black;
+.button {
+  margin: 20px;
+  width: 80px;
+  height: 5vh;
+  color: white;
+  font-size: 15px;
+  font-family: initial;
+  background-color: black;
+  border-radius: 20px;
+  border: 1px solid black;
 }
