@@ -115,11 +115,14 @@ a.active {
     align-items: center;
   }
   body {
-    background-color: pink;
+    box-sizing: border-box;
+    background-image: url(../image/bg.jfif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    height: 195vh;
   }
   .headline p {
-    cursor: pointer;
-    font-size: 30px;
     color: navy;
     font-family: algerian;
     background-color: cornsilk;
