@@ -116,7 +116,7 @@ a.active {
   }
   body {
     box-sizing: border-box;
-    background-color: lavender;
+    background-color: url(../image/bg.jfif);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-position: center;
