@@ -12,7 +12,7 @@ body {
 .heading h1 {
   text-align: center;
   font-family: tahoma;
-  color: lightgray;
+  color: lightgrey;
 }
 
 .img-content {
@@ -41,12 +41,9 @@ body {
 }
 
 .headline p {
-  cursor: pointer;
   font-size: 30px;
-  color: black;
+  color: lightgray;
   font-family: algerian;
-  background-color: white;
-  display: inline;
 }
 
 .navbar {
@@ -64,17 +61,17 @@ body {
   border: 2px solid transparent;
   padding: 10px;
   transition: 0.3s;
-  background-color: white;
+  background-color: lightgray;
 }
 
 a.active {
   background-color: black;
-  color: white;
+  color: lightgray;
 }
 
 .navbar a:hover {
   background-color: black;
-  color: white;
+  color: lightgray;
   width: 100%;
 }
 
@@ -102,7 +99,7 @@ a.active {
   display: inline-flex;
   width: 50px;
   height: 50px;
-  background: #fff;
+  background: lightgrey;
   color: #000;
   justify-content: center;
   align-items: center;
@@ -121,11 +118,5 @@ a.active {
     background-size: 100% 100%;
     background-position: center;
     height: 195vh;
-  }
-  .headline p {
-    color: navy;
-    font-family: algerian;
-    background-color: cornsilk;
-    display: inline;
   }
 }
