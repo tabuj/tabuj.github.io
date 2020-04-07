@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-image: url(../image/bg.jfif);
+  background-color: #000;
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-position: center;
@@ -12,7 +12,7 @@ body {
 .heading h1 {
   text-align: center;
   font-family: tahoma;
-  color: navy;
+  color: lightgray;
 }
 
 .img-content {
@@ -26,7 +26,7 @@ body {
 }
 
 .img-content img:hover {
-  border: 2px solid #000;
+  border: 2px solid black;
 }
 
 .headline {
@@ -36,16 +36,16 @@ body {
 .headline h2 {
   cursor: pointer;
   font-size: 20px;
-  color: navy;
+  color: lightgray;
   font-family: Tahoma;
 }
 
 .headline p {
   cursor: pointer;
   font-size: 30px;
-  color: navy;
+  color: black;
   font-family: algerian;
-  background-color: cornsilk;
+  background-color: white;
   display: inline;
 }
 
@@ -57,24 +57,24 @@ body {
 
 .navbar a {
   text-decoration: none;
-  color: #fff;
+  color: #000;
   font-size: 25px;
   font-family: tahoma;
   margin: 30px;
   border: 2px solid transparent;
   padding: 10px;
   transition: 0.3s;
-  background-color: black;
+  background-color: white;
 }
 
 a.active {
-  background-color: white;
-  color: black;
+  background-color: black;
+  color: white;
 }
 
 .navbar a:hover {
-  background-color: white;
-  color: black;
+  background-color: black;
+  color: white;
   width: 100%;
 }
 
@@ -97,13 +97,13 @@ a.active {
 }
 
 .footer a {
-  text-decoration: #fff;
+  text-decoration: #000;
   font-size: 25px;
   display: inline-flex;
   width: 50px;
   height: 50px;
-  background: #000;
-  color: #fff;
+  background: #fff;
+  color: #000;
   justify-content: center;
   align-items: center;
 }
@@ -116,7 +116,7 @@ a.active {
   }
   body {
     box-sizing: border-box;
-    background-color: url(../image/bg.jfif);
+    background-color: #000;
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-position: center;

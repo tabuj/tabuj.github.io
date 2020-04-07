@@ -1,12 +1,12 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: rgb(223, 144, 183);
+  background-color: rgb(236, 220, 220);
 }
 
 .head h1 {
   text-align: center;
-  color: red;
+  color: darkviolet;
 }
 
 .Hobby h2 {
@@ -15,7 +15,7 @@ body {
 }
 
 .Hobby h3 {
-  color: white;
+  color: rgb(149, 86, 209);
   padding-left: 30px;
 }
 .button {
