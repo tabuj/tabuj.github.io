@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: #000;
+  background-color: #5ca2ec;
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-position: center;
@@ -12,7 +12,7 @@ body {
 .heading h1 {
   text-align: center;
   font-family: tahoma;
-  color: lightgrey;
+  color: black;
 }
 
 .img-content {
@@ -36,13 +36,13 @@ body {
 .headline h2 {
   cursor: pointer;
   font-size: 20px;
-  color: lightgray;
+  color: black;
   font-family: Tahoma;
 }
 
 .headline p {
   font-size: 30px;
-  color: lightgray;
+  color: black;
   font-family: algerian;
 }
 
@@ -103,6 +103,13 @@ a.active {
   color: #000;
   justify-content: center;
   align-items: center;
+  border-radius: 10px;
+}
+
+.footer a:hover {
+  color: lightgray;
+  background-color: black;
+  border-radius: 10px;
 }
 
 @media screen and (min-width: 375px) and (max-width: 930px) {
